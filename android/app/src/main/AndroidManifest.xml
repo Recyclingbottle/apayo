@@ -34,7 +34,7 @@
         <!-- Add the following meta-data element, replacing "YOUR_API_KEY" with your actual API key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBYQFpEdgAhhjvcsIqb8VrMkOMcwVYCAKs"/>
+            android:value="API키 작성"/>
 
     </application>
 </manifest>
